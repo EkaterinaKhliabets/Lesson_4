@@ -1,0 +1,156 @@
+* {
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+body {
+    text-align: center;
+}
+
+.awesome h1 {
+    margin-top: 100px;
+    margin-bottom: 25px;
+    font-family: Raleway;
+    font-size: 36px;
+    line-height: 42.26px;
+    
+}
+
+.awesome hr {
+    width: 60px;
+    height: 2px;
+    color: #E72424;
+    border: none;
+    background-color: #E72424;
+    margin: 0px auto;
+}
+
+.awesome p {
+    margin-top: 30px;
+    /*width: 363px;*/
+    height: 19px;
+    font-family: Open Sans;
+    font-size: 14px;
+    line-height: 19.07px;
+    color: #86878B;
+}
+
+.why-awesome {
+   font-size: 0px;
+   margin-top: 67px;
+}
+
+.why-awesome-block {
+    display: inline-block;
+    width: 33.33%;
+    font-size: 16px;
+}
+
+.circle-class {
+    background-repeat: no-repeat;
+    background-position: center;
+    border: 1px solid #E72424;
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    margin: 0px auto;
+}
+
+.circle-lampa {
+    background-image: url(./assets/icons/lampa.svg);
+}
+
+.circle-keyboard {
+    background-image: url(./assets/icons/keyboard.svg);
+}
+
+.circle-light {
+    background-image: url(./assets/icons/light.svg);
+}
+
+.why-awesome-block h2 {
+    margin-top: 30px;
+    font-family: Open Sans;
+    font-size: 20px;
+    line-height: 27.24px;
+}
+
+.why-awesome-block p {
+    margin-top: 16px;
+    padding: 0 5px;
+    font-family: Open Sans;
+    font-size: 14px;
+}
+
+.stylish-design {
+    margin-top: 108px;
+    height: 326px;
+    background:linear-gradient( rgba(0, 0, 0, 0.65), rgba(0, 0, 0, 0.65) ),url(./assets/icons/stylish_design.jpg);
+    z-index: -1;
+}
+
+
+.stylish-design h2{
+    padding-top: 76px;
+    font-family: Raleway;
+    font-size: 36px;
+    color: #FFFFFF;
+}
+
+.stylish-design hr {
+    margin: 46px auto 0 auto;
+    width: 64px;
+    height: 2px;
+    border: none;
+    background-color: #FFFFFF;
+}
+
+.stylish-design p {
+    margin-top: 30px;
+    font-family: Raleway;
+    font-size: 16px;
+    color: #FFFFFF;
+    opacity: 0.8;
+}
+
+.stylish-design button{
+    margin-top: 30px;
+    width: 135px;
+    height: 42px;
+    background-color: transparent; /*на кнопке получается фон background*/
+    border: 1px solid #FFFFFF;
+    font-family: Open Sans;
+    font-size: 15px;
+    color: #FFFFFF;
+}
+
+footer {
+    background-color: #000000;
+    height: 101px;
+}
+
+.network-icons {
+    padding-top: 30px;
+    color: white;
+    font-size: 25px;
+}
+
+.network-icons a {
+    text-decoration: none;
+    color: white;
+    font-size: 25px;
+    padding-left: 15px;
+}
+
+footer p {
+    margin-top: 18px;
+    font-family: Open Sans;
+    font-size: 12px;
+    color: #FFFFFF;
+    opacity: 0.5;
+}
+
+
+
+
+
